@@ -1,0 +1,439 @@
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+	.banner_area h2{
+		font-size: 30px;
+		padding-top: 80px;
+	}
+	.banner_details p {
+	  font-size: 14px;
+	}
+	.coming_area img {
+	  padding-bottom: 10px;
+	  width: 40%;
+	}
+	.banner_details h5 {
+	  font-size: 15px;
+	}
+	.coming_area h5 {
+	  font-size: 15px;
+	}
+	.coming_area p {
+	  font-size: 14px;
+	}
+	.coming_area button {
+	  padding: 10px 35px;
+	  font-size: 14px;
+	}
+	.signup_area img {
+	  padding-bottom: 10px;
+	  width: 40%;
+	}
+	.about_us_area img {
+	  width: 50%;
+	}
+	.signup_area h5 {
+	  padding: 20px 0;
+	  font-size: 15px;
+	}
+	.signup_area p {
+	  padding-bottom: 10px;
+	  font-size: 14px;
+	}
+	.signup_area button{
+	  padding: 10px 35px;
+	  font-size: 14px;
+	}
+	.comingsecond_area img{
+	  padding-bottom: 10px;
+	  width: 40%;
+	}
+	.comingsecond_area h5 {
+	  padding: 20px 0;
+	  font-size: 15px;
+	}
+	.comingsecond_area p{
+	  padding-bottom: 10px;
+	  font-size: 14px;
+	}
+	.comingsecond_area button {
+	  padding: 10px 35px;
+	  font-size: 14px;
+	}
+	.contact_area img{
+	  padding-bottom: 10px;
+	  width: 40%;
+	}
+	.contact_area h5 {
+	  padding: 20px 0;
+	  font-size: 15px;
+	}
+	.contact_area p{
+	  padding-bottom: 10px;
+	  font-size: 14px;
+	}
+	.contact_area button {
+	  padding: 10px 35px;
+	  font-size: 14px;
+	}
+	.contactsecond_area img{
+	  padding-bottom: 10px;
+	  width: 40%;
+	}
+	.contactsecond_area h5 {
+	  padding: 20px 0;
+	  font-size: 14px;
+	}
+	.contactsecond_area p{
+	  padding-bottom: 10px;
+	  font-size: 14px;
+	}
+	.contactsecond_area button {
+	  padding: 10px 35px;
+	  font-size: 14px;
+	}
+	.teammember_area .col-md-10 {
+	  margin-top: 0;
+	}
+	.sell_crowdmall_area h5{
+		font-size: 14px;
+	}
+	.sell_crowdmall_area p{
+		
+	}
+	.sell_crowdmall_area .col-md-7 .col-md-2 img {
+	  width: 100%;
+	}
+	.about_us_area p span {
+	  display: unset;
+	}
+	.signup_area p span{
+		display: unset;
+	}
+	.form-group.clickplus {
+	  width: 87%;
+	}
+	.form-group.inputplus {
+	  width: 13%;
+	}
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 768px) {
+     .header_area .topnav a:not(:first-child) {display: none;}
+	  .header_area .topnav a.icon {
+		float: right;
+		display: block;
+	  }
+		.header_area .topnav.responsive {position: relative;}
+	  .header_area .topnav.responsive .icon {
+		position: absolute;
+		right: 0;
+		top: 0;
+	  }
+	  .header_area .topnav.responsive a {
+		float: none;
+		display: block;
+		text-align: left;
+	  }
+	  .information_form .information button {
+		  background-color: #0B467D;
+		  border: none;
+		  padding: 10px 35px;
+		  color: #fff;
+		  margin: 20px 0;
+		  font-size: 13px;
+	}
+	.information_form .information .col-md-6.form_right {
+	  display: none;
+	}
+	.information_form .information h1 {
+	  font-size: 30px;
+	}
+	.footer_area .col-md-2 img {
+	  width: 40%;
+	}
+	.footer_area .col-md-6 .copywright p {
+	  margin-top: 15px;
+	  font-size: 12px;
+	  text-align: left;
+	}
+	.footer_area .col-md-6 .footer_menu ul{
+		text-align: left;
+	}
+	.footer_area{
+		position: relative;
+	}
+	.footer_area .col-md-6 .footer_menu {
+	  position: absolute;
+	  right: 0;
+	  top: -200px;
+	}
+	.footer_area .col-md-2 {
+	  padding-bottom: 15px;
+	}
+	.footer_area .col-md-4 p {
+	  font-size: 12px;
+	}
+	.footer_area .col-md-4 > a {
+	  font-size: 13px;
+	}
+	.header_area .right_menu {
+	  padding-top: 35px;
+	}
+	.header_area .topnav a {
+		padding: 3px 0px;
+	}
+	.crowdmall_plan_area .col-md-6 {
+	  margin-bottom: 20px;
+	}
+	.sell_crowdmall_area .col-md-7 .col-md-2 img {
+	  width: 60px;
+	  display: block;
+	  text-align: center;
+	  margin: auto;
+	}
+	.sell_crowdmall_area .col-md-7 .col-md-2 {
+	  margin-bottom: 10px;
+	}
+	.information_form .information button {
+	  width: 49%;
+	}
+	.header_area .bg-light {
+	  padding: 10px;
+	}
+	.footer_area .col-md-4 {
+	  padding-left: 0;
+	}
+	.crowdmall_plan_area .standard {
+		width: 100%;
+		margin-right: 0%;
+		margin-bottom: 20px;
+	}
+	.crowdmall_plan_area .advance {
+		width: 100%;
+	}
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+	.banner_area{
+	  margin-top: 0;
+	}
+	.banner_area h2 {
+	  font-size: 28px;
+	}
+	.coming_area button {
+		height: 40px;
+		width: 175px;
+		font-size: 14px;
+	}
+    .signup_area button {
+		height: 40px;
+		width: 175px;
+		font-size: 14px;
+	}
+	.comingsecond_area button {
+		height: 40px;
+		width: 175px;
+		font-size: 14px;
+	}
+	.contact_area button {
+		height: 40px;
+		width: 175px;
+		font-size: 14px;
+	}
+	.contactsecond_area button {
+		height: 40px;
+		width: 175px;
+		font-size: 14px;
+	}
+	.information_form .information button {
+	  padding: 5px 20px;
+	  font-size: 12px;
+	}
+	.teammember_area{
+		padding: 15px;
+	}
+	.about_details{
+		padding: 15px;
+	}
+	.sell_crowdmall_area {
+		padding: 30px 15px 15px;
+	}
+	.crowdmall_plan_area {
+	  padding: 15px;
+	}
+	.crowdmall_plan_area .col-md-6 h3 {
+		font-size: 17px;
+	}
+	.standard_plan_area h3 {
+		font-size: 17px;
+	}
+	.footer_area .col-md-6 .footer_menu ul li a {
+	  font-size: 11px;
+	}
+	.footer_area .col-md-6 .footer_menu {
+	  top: -177px;
+	}
+	.footer_area .col-md-6 {
+	  padding: 0;
+	}
+	.footer_area .col-md-4 {
+	  padding: 0;
+	}
+	.teammember_area .col-md-10 {
+	  padding: 0;
+	  margin-top: 15px;
+	}
+	.teammember_area .col-md-2 {
+	  padding: 0;
+	}
+	.information_form .information h1 {
+	  font-size: 24px;
+	}
+	.header_area .logo{
+	width: 45%;
+	float: left;
+	}
+	.header_area .topnav{
+		width: 55%;
+		overflow: hidden;
+	}
+	footer {
+	  padding: 50px 10px 30px;
+	}
+	.standard_plan_area #file-drag {
+	  width: 100%;
+	}
+	.standard_plan_area .pre {
+	  width: 50%;
+	}
+	.standard_plan_area #start {
+	  
+	}
+	.standard_plan_area .pre img {
+	  width: 200px;
+	  height: auto;
+	}
+	.footer_area .col-md-2 img {
+	  width: 138px;
+	  height: auto;
+	}
+	.navbar-light .navbar-brand img {
+	  width: 167px;
+	  height: 60px;
+	}
+	.about_us_area button {
+	  height: 40px;
+	  width: 167px;
+	  font-size: 14px;
+	}
+	.sell_crowdmall_area .col-md-7 .col-md-10 {
+	  overflow: hidden;
+	  margin-bottom: 20px;
+	}
+	.about_us_area h5 {
+		font-size: 15px;
+	}
+	.about_us_area p {
+		  font-size: 14px;
+	}
+	.about_details h5 {
+	  font-size: 15px;
+	}
+	.about_details p {
+	  font-size: 14px;
+	}
+	.teammember_area .col-md-10 p {
+	  font-size: 14px;
+	}
+	.teammember_area .col-md-10 b {
+		font-size: 14px;
+	}
+	.banner_area{
+		background-image: url('img/m_home.webp');
+	}
+	.information_form .information button {
+	  font-size: 15px;
+	}
+	.standard_plan_area .form-check {
+	  margin-top: 25px;
+	}
+	.sell_crowdmall_area .col-md-7 {
+	  padding: 0;
+	}
+	.sell_crowdmall_area .col-md-10 {
+	  padding: 0;
+	}
+	.sell_crowdmall_area .col-md-7 .col-md-10 p {
+	  font-size: 14px;
+	}
+	.about_us_area img {
+	  width: 50%;
+	}
+	.about_us_area {
+		padding: 50px 10px;
+	}
+	.about_us_area img {
+	  padding-bottom: 10px;
+	}
+	.about_us_area p {
+	  padding-bottom: 15px;
+	}
+	.banner_area h2 span {
+	  display: block;
+	}
+	.about_us_area img {
+	  width: 150px;
+	}
+	.information_form {
+	  padding: 30px 10px 10px;
+	}
+	.header_area .navbar-light .navbar-brand img {
+	  width: 167px;
+	  height: 60px;
+	}
+	.standard_plan_area .col-md-6 p {
+	  font-size: 12px;
+	}
+	.standard_plan_area .col-md-6 .form-check-label {
+	  font-size: 12px;
+	}
+	.standard_plan_area {
+	  padding: 50px 0 0;
+	}
+	.form-group.clickplus {
+	  width: 91%;
+	}
+	.form-group.inputplus {
+	  width: 9%;
+	}
+}
+
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 320px) {
+   .banner_area {
+	  background-image: url('img/m_home.webp');
+	  background-size: 320px auto;
+	  height: 360px;
+	}
+	.banner_area h2 {
+	  font-size: 23px;
+	}
+	.banner_area h2 {
+	  padding-top: 0;
+	}
+	.form-group.clickplus {
+	  width: 84.4%;
+	}
+	.form-group.inputplus {
+	  width: 15.5%;
+	}
+}
